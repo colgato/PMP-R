@@ -3,7 +3,7 @@
 library(readxl)
 #para la funcion filter
 library(stats)
-#file.choose() esta funcion muestra la ruta del archivo #DESCOMENTA ESTA FUNCION SI NO CONOCES TU RUTA
+#file.choose() #esta funcion muestra la ruta del archivo DESCOMENTA ESTA FUNCION SI NO CONOCES TU RUTA
 ruta_excel <- "AQUI PON TU RUTA DE EXCEL"
 excel_sheets(ruta_excel)
 #cargamos los datos a nuestras variables por cada ejercicio
